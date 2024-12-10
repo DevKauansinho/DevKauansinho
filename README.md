@@ -76,5 +76,5 @@
 ###
 
 <p align="center">
- <img width="1000" src="assets/snake.svg" alt="snake"/>
+ <img width="1000" src="snake.svg" alt="snake"/>
 </p>
