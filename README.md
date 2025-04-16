@@ -37,11 +37,6 @@
 
 ###
 
-<p align="left">Currently studying:</p>
-
-###
-
-
 
 <p align="left">Social Media</p>
 
